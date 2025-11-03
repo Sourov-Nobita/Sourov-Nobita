@@ -1,3 +1,7 @@
+<a href="https://t.me/Rare_Bots_Hub">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+my+self+Nobita+;From+Dhaka%2C+Bangladesh;Telegram%3A+%40Rare_Bots_Hub" alt="Telegram: @Rare_Bots_Hub" />
+</a>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=Welcome+to+My+GitHub+Profile;Exploring+the+world+of+code;Sharing+my+projects+and+learnings;Enjoy+your+stay!&width=600&height=180">
 </p>
