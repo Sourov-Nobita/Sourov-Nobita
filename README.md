@@ -74,6 +74,7 @@ I enjoy collaborating with other developers and learning from their experiences.
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=18&duration=2200&pause=800&color=F7F7F7&width=700&lines=I+build+chatbots+and+web+tools.;Looking+to+collaborate%3F+DM+me+on+Telegram." alt="CTA typing"/>
 </p>
+
 ### 📫 Contact Me
 
 You can connect with me on various platforms:
