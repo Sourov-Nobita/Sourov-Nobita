@@ -85,6 +85,11 @@ You can connect with me on various platforms:
 
 Thanks for visiting my profile! Feel free to explore my repositories, and don't forget to leave a star ⭐️ if you find something interesting!
 
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Sourov-Nobita&theme=radical&data=followers,repositories,stars,commits" />
+</p>
+
+
 <!-- 💀 Premium Animated GitHub Profile Section -->
 <p align="center">
   <!-- Neon Glowing Header -->
