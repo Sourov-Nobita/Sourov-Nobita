@@ -62,7 +62,7 @@ Here's a bit more about me:
 ---
 
 
-![Profile counter](https://moe-counter.glitch.me/get/@codeflix-bots)
+![Profile counter](https://moe-counter.glitch.me/get/@Sourov-Nobita)
 
 ### 🤝 Collaboration
 
