@@ -137,12 +137,3 @@ Thanks for visiting my profile! Feel free to explore my repositories, and don't 
   <img src="https://i.imgflip.com/ab2vl9.gif" alt="Animated Banner" width="600" style="border-radius:20px;box-shadow:0 0 20px #00fff2;"/>
 </p>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&pause=1000&color=00FFF2&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Nobita+👾;From+Dhaka%2C+Bangladesh;Welcome+To+My+Profile!">
-</h2>
-
-<p align="center">
-  <a href="https://github.com/Sourov-Nobita">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sourov-Nobita&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=00fff2">
-  </a>
-</p>
