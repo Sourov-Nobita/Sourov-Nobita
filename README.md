@@ -50,13 +50,6 @@ Here's a bit more about me:
 - **Tools:** Git, Docker, VS Code
 - **Databases:** PostgreSQL, MongoDB
 
-## My recent projects
-
-[![File Store](https://github-readme-stats.vercel.app/api/pin?username=Codeflix-bots&theme=github_dark&hide_border=true&repo=filestore)](https://github.com/Codeflix-bots/filestore)
-[![AutoRename](https://github-readme-stats.vercel.app/api/pin?username=Codeflix-bots&theme=github_dark&hide_border=true&repo=auto-rename-bot)](https://github.com/Codeflix-bots/auto-rename-bot)
-[![Links Share Bot](https://github-readme-stats.vercel.app/api/pin?username=Codeflix-bots&theme=github_dark&hide_border=true&repo=Links-Share-Bot )](https://github.com/Codeflix-Bots/Links-Share-Bot)
-[![Premium Plans](https://github-readme-stats.vercel.app/api/pin?username=Codeflix-bots&theme=github_dark&hide_border=true&repo=Premium-Plans)](https://github.com/Codeflix-Bots/Premium-Plans)
-
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sourov-Nobita&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
